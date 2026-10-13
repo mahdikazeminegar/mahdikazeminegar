@@ -52,6 +52,7 @@ I am an engineering researcher bridging the gap between advanced mathematical co
 - **M.Sc. in Electrical Engineering (Control)** - *Babol Noshirvani University of Technology (2025–2027)*
 - **M.Sc. in Aerospace Engineering (Flight Dynamics & Control)** - *Tarbiat Modares University (2022–2024)*
 - **B.Sc. in Electrical Engineering (Electronics)** - *Islamic Azad University (2019–Present)*
+- **B.A. in Teaching English as a Foreign Language (TEFL)** - *Farhangian University (2018–2022)*
 
 ---
 
@@ -60,6 +61,6 @@ I am an engineering researcher bridging the gap between advanced mathematical co
 
 ### 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-m.mahdikazeminegar%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m.mahdikazeminegar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammad-mahdi-kazemi-negar-7ba305196)
 
 *Note: Some academic repositories are kept private due to ongoing university research and pre-publication constraints. Please contact me for detailed discussions.*
